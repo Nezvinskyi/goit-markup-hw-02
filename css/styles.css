@@ -1,0 +1,14 @@
+/* 
+background color: #E5E5E5
+secondary background color: #F5F4FA
+text color: #212121
+additional text color: #757575 
+accent color: #2196F3 
+white color: #ffffff */
+:root {
+  --accent-color: #2196f3;
+}
+body {
+  background-color: #e5e5e5;
+  color: #212121;
+}
