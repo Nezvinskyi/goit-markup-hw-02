@@ -134,13 +134,48 @@ footer {
 
 /* ========== END FOOTER ============ */
 
+/* ======== PORTFOLIO ======== */
+.projects-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625x;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--main-text-color);
+  background-color: #f5f4fa;
+}
+
+.projects-button:hover,
+.projects-button:focus {
+  color: #ffffff;
+  background-color: var(--accent-color);
+}
+
+.project-title {
+  font-weight: bo700ld;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: var(--main-text-color);
+}
+.project-type {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.875;
+  letter-spacing: 0.03em;
+  color: var(--add-text-color);
+}
+/* ======== END PORTFOLIO ======== */
+
 /* =======COMPONENTS======== */
 
 .logo {
   font-family: Raleway;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.193px;
+  line-height: 1.193;
   letter-spacing: 0.03em;
 }
 
