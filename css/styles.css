@@ -51,6 +51,9 @@ address {
   color: var(--accent-color);
 }
 
+.header-nav-link.current {
+  color: var(--accent-color);
+}
 /* =======END HEADER========= */
 
 /* =======HERO========== */
